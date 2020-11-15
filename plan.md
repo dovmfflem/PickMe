@@ -5,7 +5,7 @@
 - Android(우선 프로토타입), <del>iOS</del>
 # 3. 개발 구분
 - Back-End 
-  - Java(IntelliJ), SpringBoot, MySQL, JPA, Redis, Google Maps API
+  - Java(IntelliJ), SpringBoot, MySQL, JPA, Redis
 - Front-End
   - Android(Android Studio), <del>iOS(XCode)</del>
 # 4. 디자인
